@@ -27,6 +27,9 @@ Three charts, shared across both deliverables:
      total observations per hour to remove observer bias. Different
      species peak at different times.
 
+## Preview
+<img width="2048" height="3408" alt="image" src="https://github.com/user-attachments/assets/abef482e-ecbe-4c88-9865-a83da67dbcd3" />
+
 ## Running it
 
     git clone https://github.com/mnbmnd/dawn-to-dusk.git
